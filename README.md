@@ -38,8 +38,7 @@ The goal was to deploy a production-ready **Next.js application** in a Kubernete
 ## 🐳 Docker Configuration
 
 **1. Multi-Stage Dockerfile**
-```dockerfile in repo
-
+ - Check repo File
 ## 2. Build and Tag Docker Image
 
 docker build -t my-nextjs-app:latest .
