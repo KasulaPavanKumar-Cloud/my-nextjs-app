@@ -100,4 +100,4 @@ Service Manifest (service.yaml)
 
 <img width="963" height="598" alt="image" src="https://github.com/user-attachments/assets/3c81e368-bcdb-4621-a222-692d902ffc7b" />
 
-— ## Kasula PavanKumar
+## Kasula PavanKumar
