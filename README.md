@@ -1,11 +1,3 @@
-# 🚀 WEXA AI – DevOps Internship Assessment
-
-**Name:** Kasula PavanKumar  
-**Role:** DevOps Intern – WEXA AI  
-**Project Title:** Containerization and Deployment of a Next.js Application using Docker, GitHub Container Registry, and Kubernetes (Minikube) on AWS EC2
-
----
-
 ## 📘 Overview
 This project was completed as part of the **WEXA AI DevOps Internship Assessment**.  
 The goal was to deploy a production-ready **Next.js application** in a Kubernetes cluster hosted on an **AWS EC2 Ubuntu instance**. The project involved containerization, registry management, orchestration, and service exposure in a controlled cloud environment.
