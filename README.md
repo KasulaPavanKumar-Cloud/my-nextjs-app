@@ -82,19 +82,19 @@ We Access via Local browser:
 
 ### Results and Validation
 
-✅ Successful EC2 setup with Docker and Minikube
-✅ Docker image built and pushed to GHCR
-✅ Kubernetes deployment successfully rolled out
-✅ Application running in multiple pods
-✅ Verified accessibility through SSH tunnel
+- ✅ Successful EC2 setup with Docker and Minikube
+- ✅ Docker image built and pushed to GHCR
+- ✅ Kubernetes deployment successfully rolled out
+- ✅ Application running in multiple pods
+- ✅ Verified accessibility through SSH tunnel
 
 ### Links
 
-Repository: https://github.com/KasulaPavanKumar-Cloud/my-nextjs-app
+- Repository: https://github.com/KasulaPavanKumar-Cloud/my-nextjs-app
 
-Container Image: ghcr.io/kasulapavankumar-cloud/my-nextjs-app:latest
+- Container Image: ghcr.io/kasulapavankumar-cloud/my-nextjs-app:latest
 
-GHCR Packages: [View Packages](https://github.com/KasulaPavanKumar-Cloud?tab=packages)
+- GHCR Packages: [View Packages](https://github.com/KasulaPavanKumar-Cloud?tab=packages)
 
 
-— Kasula PavanKumar
+— ## Kasula PavanKumar
